@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/adventureweb/static/css/main.c0200c83.chunk.css",
+    "main.js": "/adventureweb/static/js/main.314af978.chunk.js",
+    "main.js.map": "/adventureweb/static/js/main.314af978.chunk.js.map",
+    "runtime-main.js": "/adventureweb/static/js/runtime-main.08fa10f1.js",
+    "runtime-main.js.map": "/adventureweb/static/js/runtime-main.08fa10f1.js.map",
+    "static/js/2.7de2803c.chunk.js": "/adventureweb/static/js/2.7de2803c.chunk.js",
+    "static/js/2.7de2803c.chunk.js.map": "/adventureweb/static/js/2.7de2803c.chunk.js.map",
+    "index.html": "/adventureweb/index.html",
+    "static/css/main.c0200c83.chunk.css.map": "/adventureweb/static/css/main.c0200c83.chunk.css.map",
+    "static/js/2.7de2803c.chunk.js.LICENSE.txt": "/adventureweb/static/js/2.7de2803c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08fa10f1.js",
+    "static/js/2.7de2803c.chunk.js",
+    "static/css/main.c0200c83.chunk.css",
+    "static/js/main.314af978.chunk.js"
+  ]
+}
